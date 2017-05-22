@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">遥控器</string>
+    <string name="scan">Scan</string>
+    <string name="connect">Connect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="ble_name">Ble Name</string>
+    <string name="mac_address">00:00:00:00:00:00</string>
+    <string name="state_connected">State: Connected</string>
+    <string name="state_disconnect">State: Disconnect</string>
+    <string name="scanning">Scanning&#8230;</string>
+    <string name="disconnecting">Disconnecting&#8230;</string>
+    <string name="connecting">connecting&#8230;</string>
+
+</resources>
